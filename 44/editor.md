@@ -199,6 +199,7 @@ Epic Games過去以自家手中遊戲引擎 Unreal Engine 聞名，擁有多款�
 
 另外，既然是音樂遊戲，歌曲的部分就是重頭戲了； 《 Project Sekai Colorful Stage! feat. 初音ミク 》 目前已公開之內建曲目，囊括日本 nico nico 動畫網站上大量的 Vocaloid 系列知名樂曲；例如早期經典之一、描述約會少女心的戀愛神曲 《 メルト 》、 被網友普遍評價為超過人類演唱速度的極速快歌 《 初音ミクの消失 》 ，或是最初以 巡音ルカ 音源演唱推出的超人氣歌曲 《 Just Be Friends 》等，官方表示皆有收錄。
 
+![Just be Friends](https://www.youtube.com/watch?v=KYeyAZrepGc)
 
 
 
